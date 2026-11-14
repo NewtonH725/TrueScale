@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">True-Scale</string>
+
+    <!-- Main Navigation Tools -->
+    <string name="tool_regolo">Regolo</string>
+    <string name="tool_livella">Livella</string>
+    <string name="tool_taratura">Taratura ISO</string>
+    <string name="tool_impostazioni">Impostazioni</string>
+
+    <!-- Ruler Sub-modes -->
+    <string name="tool_single_cursor">Righello</string>
+    <string name="tool_calibro">Calibro</string>
+    <string name="tool_area_2d">Area 2D</string>
+    <string name="tool_anelli">Anelli e Ø</string>
+    <string name="tool_goniometro">Goniometro</string>
+
+    <!-- Level Sub-modes & Telemetry -->
+    <string name="level_auto">Auto</string>
+    <string name="level_bubble">Bolla 2D</string>
+    <string name="level_clinometer">Clinometro</string>
+    <string name="level_hybrid">Ibrido</string>
+    <string name="level_aligned">LIVELLA ALLINEATA (±0,1°)</string>
+    <string name="slope_label">Pendenza</string>
+    <string name="roll_label">Roll</string>
+    <string name="pitch_label">Pitch</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Impostazioni &amp; Metrologia</string>
+    <string name="settings_subtitle">Configurazione hardware, feedback sensoriale e diagnostica DOE</string>
+    <string name="settings_preferences">Preferenze Sistema</string>
+    <string name="settings_haptics">Feedback Aptico Tattile</string>
+    <string name="settings_haptics_desc">Vibrazione al millimetro (Tick) e al livello perfetto (0,0°)</string>
+    <string name="settings_theme">Tema Interfaccia</string>
+    <string name="settings_theme_system">Sistema</string>
+    <string name="settings_theme_light">Chiaro</string>
+    <string name="settings_theme_dark">Scuro</string>
+    <string name="settings_language">Lingua</string>
+    <string name="settings_language_system">Predefinita di sistema</string>
+    <string name="settings_language_it">Italiano</string>
+    <string name="settings_language_en">English</string>
+    <string name="settings_display_hardware">Hardware Display &amp; Sub-Pixel</string>
+    <string name="settings_sensor_hub">Sensori Inerziali 6 Assi</string>
+    <string name="settings_reset_actions">Ripristino Calibrazioni</string>
+    <string name="settings_reset_tares">Azzera Tutte le Tare</string>
+    <string name="settings_reset_display">Reset Display (1.0000)</string>
+    <string name="settings_architecture">Architettura True Scale</string>
+
+    <!-- Calibration Screen -->
+    <string name="calibration_title">Taratura Schermo ISO/IEC 7810</string>
+    <string name="calibration_instructions">Allinea il bordo della carta (85,6 mm × 54,0 mm) alla guida arancione</string>
+    <string name="btn_save">Conferma Taratura</string>
+    <string name="btn_reset">Ripristina</string>
+    <string name="card_dimensions_label">ID-1 (53,98 mm × 85,60 mm)</string>
+    <string name="calibration_factor_label">Fattore di Correzione Display</string>
+</resources>

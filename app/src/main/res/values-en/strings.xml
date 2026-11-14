@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">True-Scale</string>
+
+    <!-- Main Navigation Tools -->
+    <string name="tool_regolo">Ruler</string>
+    <string name="tool_livella">Bubble Level</string>
+    <string name="tool_taratura">ISO Calibration</string>
+    <string name="tool_impostazioni">Settings</string>
+
+    <!-- Ruler Sub-modes -->
+    <string name="tool_single_cursor">Ruler</string>
+    <string name="tool_calibro">Caliper</string>
+    <string name="tool_area_2d">2D Area</string>
+    <string name="tool_anelli">Rings &amp; Ø</string>
+    <string name="tool_goniometro">Protractor</string>
+
+    <!-- Level Sub-modes & Telemetry -->
+    <string name="level_auto">Auto</string>
+    <string name="level_bubble">2D Bubble</string>
+    <string name="level_clinometer">Clinometer</string>
+    <string name="level_hybrid">Hybrid</string>
+    <string name="level_aligned">LEVEL ALIGNED (±0.1°)</string>
+    <string name="slope_label">Slope</string>
+    <string name="roll_label">Roll</string>
+    <string name="pitch_label">Pitch</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings &amp; Metrology</string>
+    <string name="settings_subtitle">Hardware configuration, sensory feedback &amp; DOE diagnostics</string>
+    <string name="settings_preferences">System Preferences</string>
+    <string name="settings_haptics">Tactile Haptic Feedback</string>
+    <string name="settings_haptics_desc">Vibration per millimeter (Tick) and at level lock (0.0°)</string>
+    <string name="settings_theme">Interface Theme</string>
+    <string name="settings_theme_system">System</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_language_system">System Default</string>
+    <string name="settings_language_it">Italiano</string>
+    <string name="settings_language_en">English</string>
+    <string name="settings_display_hardware">Display Hardware &amp; Sub-Pixel</string>
+    <string name="settings_sensor_hub">6-Axis Inertial Sensors</string>
+    <string name="settings_reset_actions">Calibration Reset</string>
+    <string name="settings_reset_tares">Reset All Tares</string>
+    <string name="settings_reset_display">Reset Display (1.0000)</string>
+    <string name="settings_architecture">True Scale Architecture</string>
+
+    <!-- Calibration Screen -->
+    <string name="calibration_title">Screen Calibration ISO/IEC 7810</string>
+    <string name="calibration_instructions">Align the card edge (85.6 mm × 54.0 mm) to the orange guide</string>
+    <string name="btn_save">Save Calibration</string>
+    <string name="btn_reset">Reset</string>
+    <string name="card_dimensions_label">ID-1 (53.98 mm × 85.60 mm)</string>
+    <string name="calibration_factor_label">Display Correction Factor</string>
+</resources>

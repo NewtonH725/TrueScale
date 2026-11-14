@@ -1,0 +1,34 @@
+# DOE Framework Temporary & Execution Artifacts
+.tmp/
+*.tmp
+*.log
+
+# Sensitive Credentials & Environment
+.env
+.env.*
+credentials.json
+token.json
+secrets.xml
+
+# Gradle & Build Artifacts
+.gradle/
+build/
+*/build/
+app/build/
+*.apk
+*.aab
+
+# Android Studio & IDE
+.idea/
+*.iml
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# Kotlin & OS
+.kotlin/
+*.hprof
+.DS_Store
+Thumbs.db
